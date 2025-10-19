@@ -1,2 +1,4 @@
 # LogiProjects
-Alll pojects from Logika
+All pojects from Logika
+-Logi Talk(text chat)
+-
